@@ -3,7 +3,7 @@
 ### Turning Survey Data into Insights for Disaster Preparedness and Community Safety
 
 
-
+![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/1.jpe)
 *Figure 1. Geographical study area showing River Nile State, Sudan, and the Nile River system.*
 
 ## 1. The Story Behind the Data
@@ -35,7 +35,7 @@ The result is a data-driven examination of how a warning system performs not onl
 ## 2. Understanding the Study Area
 
 
-
+![Dashboard Preview](
 *Figure 2. Geographic context of the study, including River Nile State, major river routes, and the Nile's principal sources.*
 
 River Nile State is located in northern Sudan, along the Nile River system. Its geographical and hydrological position makes understanding flood risks particularly important.

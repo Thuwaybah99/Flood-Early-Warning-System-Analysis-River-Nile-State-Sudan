@@ -3,7 +3,7 @@
 ### Turning Survey Data into Insights for Disaster Preparedness and Community Safety
 
 
-![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/1.jpe)
+![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/5999170758569037501.jpg)
 *Figure 1. Geographical study area showing River Nile State, Sudan, and the Nile River system.*
 
 ## 1. The Story Behind the Data
@@ -35,7 +35,7 @@ The result is a data-driven examination of how a warning system performs not onl
 ## 2. Understanding the Study Area
 
 
-![Dashboard Preview](
+![Dashboard Preview](https://raw.githubusercontent.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/refs/heads/main/1.jpe)
 *Figure 2. Geographic context of the study, including River Nile State, major river routes, and the Nile's principal sources.*
 
 River Nile State is located in northern Sudan, along the Nile River system. Its geographical and hydrological position makes understanding flood risks particularly important.
@@ -166,7 +166,7 @@ The following findings tell the main story of the project.
 ### Finding 1: Warning coverage was a major weakness
 
 
-
+![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/warning-coverage.png)
 *Figure 3. Percentage of flood-exposed respondents who reported receiving a warning before the flood.*
 
 One of the most important findings concerned the gap between flood exposure and warning receipt.
@@ -193,7 +193,7 @@ In this case, that final stage is the delivery of a timely warning to an exposed
 ### Finding 2: The warning process may lose valuable time
 
 
-
+![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/kk.png)
 *Figure 4. Reported time between hazard monitoring and the issuance of a warning, according to technical respondents.*
 
 An early warning is valuable only if it arrives early enough to support protective action.
@@ -222,7 +222,7 @@ This makes it easier to identify where time is being lost and where operational 
 ### Finding 3: Receiving a warning does not guarantee knowing what to do
 
 
-
+![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/kk.png)
 *Figure 5. Reported clarity of warning messages and the protective actions required.*
 
 One of the most striking findings concerned the clarity of the warning instructions.
@@ -253,7 +253,7 @@ This finding shifts the focus from merely transmitting information to communicat
 ### Finding 4: Informal communication channels play an important role
 
 
-
+![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/kk.png)
 *Figure 6. Communication channels identified in the study, including formal warning mechanisms and residents' preferred channels.*
 
 The analysis also examined how warnings were communicated and which channels residents preferred.
@@ -293,7 +293,7 @@ This leads to a practical recommendation: use multiple complementary channels ra
 ### Finding 5: Technical assessments and community experiences do not always align
 
 
-
+![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/kk.png)
 *Figure 7. Comparison of specialist assessments and community-reported experiences across warning coverage, timing, message clarity, and communication.*
 
 A central objective of the project was to compare the perspectives of technical personnel with those of residents.
@@ -320,7 +320,7 @@ The difference between these perspectives provides useful evidence for improving
 ### Finding 6: Trust and response are connected to warning quality
 
 
-
+![Dashboard Preview](https://github.com/Thuwaybah99/Flood-Early-Warning-System-Analysis-River-Nile-State-Sudan/blob/main/kk.png)
 *Figure 8. Community trust in official warnings and the protective actions reported by respondents.*
 
 The research also examined trust in official warnings and the actions residents reported taking.
@@ -603,9 +603,3 @@ It demonstrates how statistical analysis and visualization can help transform qu
 - **Data source:** Electronic questionnaires completed by local community members and technical personnel
 - **Methods:** Data cleaning, descriptive statistics, frequency and percentage analysis, visualization, and stakeholder comparison
 - **Research approach:** Descriptive-analytical
-
-## Acknowledgment
-
-This README describes the data analytics component of an academic research project evaluating the flood early warning system in River Nile State, Sudan. The research context, study methodology, and findings are based on the accompanying research document.
-
-The charts should be interpreted in the context of the study's sample size, sampling method, and stated limitations.
